@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "week1/recfun"
+		},
+		{
+			"path": "week1/example"
+		},
+		{
+			"path": "scala-project"
+		},
+		{
+			"path": "week2/funsets"
+		},
+		{
+			"path": "week3/objsets"
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}
